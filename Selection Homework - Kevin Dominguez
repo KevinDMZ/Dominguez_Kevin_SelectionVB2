@@ -1,0 +1,2 @@
+Text: Enter a value for IntNumber; Name: IbllntNumber
+Text: Display IntNumber; Name: IblResult ; BorderStyle: Fixed 3D; AutoSize: False
